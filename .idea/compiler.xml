@@ -17,7 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="bot" options="-parameters" />
       <module name="link-parser" options="-parameters" />
-      <module name="scrapper" options="-parameters" />
+      <module name="scrapper" options="" />
     </option>
   </component>
 </project>
