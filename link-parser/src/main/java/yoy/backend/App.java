@@ -1,4 +1,4 @@
-package arsi.backend;
+package yoy.backend;
 
 import java.net.URISyntaxException;
 import java.util.Scanner;
