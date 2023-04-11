@@ -1,8 +1,8 @@
 package app;
 
-import arsi.backend.BackendLinkParser;
-import dto_classes.IncomingLink;
-import dto_classes.LinkData;
+import yoy.backend.BackendLinkParser;
+import dto.IncomingLink;
+import dto.LinkData;
 import org.springframework.web.bind.annotation.*;
 
 import java.net.URISyntaxException;
