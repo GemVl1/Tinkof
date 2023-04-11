@@ -1,4 +1,4 @@
-package arsi.backend;
+package yoy.backend;
 
 
 import com.pengrad.telegrambot.TelegramBot;
