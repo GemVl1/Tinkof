@@ -1,7 +1,7 @@
 package clientBeans;
 
 
-import dto_classes.SOResponse;
+import dto.SOResponse;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
