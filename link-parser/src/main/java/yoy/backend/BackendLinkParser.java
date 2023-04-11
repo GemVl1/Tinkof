@@ -1,6 +1,6 @@
-package arsi.backend;
+package yoy.backend;
 
-import dto_classes.LinkData;
+import dto.LinkData;
 import reactor.core.publisher.Mono;
 
 import java.net.URISyntaxException;
