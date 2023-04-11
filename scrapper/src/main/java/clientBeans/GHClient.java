@@ -1,6 +1,6 @@
 package clientBeans;
 
-import dto_classes.GHResponse;
+import dto.GHResponse;
 import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
