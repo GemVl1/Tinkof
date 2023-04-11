@@ -1,4 +1,4 @@
-package arsi.backend;
+package yoy.backend;
 
 import reactor.core.publisher.Mono;
 
