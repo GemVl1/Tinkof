@@ -1,4 +1,4 @@
-package dto_classes;
+package dto;
 
 import reactor.core.publisher.Mono;
 
