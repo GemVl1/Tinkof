@@ -1,4 +1,4 @@
-package arsi.backend;
+package yoy.backend;
 
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
