@@ -1,6 +1,6 @@
 package app;
 
-import dto_classes.*;
+import dto.*;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.MethodArgumentNotValidException;
