@@ -17,7 +17,7 @@ import java.io.File;
 import java.nio.file.Path;
 import java.sql.Connection;
 import java.sql.DriverManager;
-public class IntegrationEnvironment {
+public class integrationEnvironment {
 
     static final PostgreSQLContainer CONTAINER;
 
