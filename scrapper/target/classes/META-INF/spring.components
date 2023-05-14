@@ -1,0 +1,16 @@
+ru.tinkoff.edu.java.scrapper.ScrapperApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig=org.springframework.boot.context.properties.ConfigurationProperties
+ru.tinkoff.edu.java.scrapper.configuration.BotConfig=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.configuration.ClientConfiguration=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.configuration.JdbcConfig=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.configuration.JpaConfig=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.configuration.ParserUrlConfig=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.configuration.RabbitMQConfiguration=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.configuration.SchedulerConfig=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.controller.ChatController=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.controller.ExceptionApiHandler=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.controller.LinkController=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.repository.Jpa.ChatJpaRepository=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.repository.Jpa.ChatLinkRepositoryJpa=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.repository.Jpa.LinkJpaRepository=org.springframework.stereotype.Component
+ru.tinkoff.edu.java.scrapper.schedulers.LinkUpdateScheduler=org.springframework.stereotype.Component

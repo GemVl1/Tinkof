@@ -1,4 +1,4 @@
-package integrationTest.jdbc;
+package IntegrationTest.jdbc;
 
 import IntegrationTest.IntegrationEnvironment;
 import org.junit.jupiter.api.Assertions;
