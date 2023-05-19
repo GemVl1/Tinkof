@@ -11,7 +11,8 @@ import com.pengrad.telegrambot.request.SetMyCommands;
 import com.pengrad.telegrambot.response.SendResponse;
 import org.hibernate.validator.internal.constraintvalidators.bv.time.futureorpresent.AbstractFutureOrPresentJavaTimeValidator;
 import java.util.List;
-
+//"6220115956:AAFqcK2689g7h08WTpApS5J4Finr1evIK0k"
+//"#{bot.token}"
 public class TgBot {
     TelegramBot bot = new TelegramBot("6220115956:AAFqcK2689g7h08WTpApS5J4Finr1evIK0k");
     public void startBot(){
