@@ -1,4 +1,4 @@
-package dto_classes;
+package dto;
 
 import jakarta.validation.constraints.NotNull;
 import lombok.Data;

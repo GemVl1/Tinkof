@@ -1,6 +1,6 @@
 package app;
-import dto_classes.ApiErrorResponse;
-import dto_classes.DataClass;
+import dto.ApiErrorResponse;
+import dto.DataClass;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
