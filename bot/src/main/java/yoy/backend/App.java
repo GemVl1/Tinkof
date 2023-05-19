@@ -8,7 +8,7 @@ import com.pengrad.telegrambot.model.request.InlineKeyboardButton;
 import com.pengrad.telegrambot.model.request.InlineKeyboardMarkup;
 import com.pengrad.telegrambot.request.SendMessage;
 import com.pengrad.telegrambot.response.SendResponse;
-import tgBotClasses.TgBot;
+import tgBotClass.TgBot;
 
 import java.util.List;
 

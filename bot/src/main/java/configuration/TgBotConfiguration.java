@@ -3,7 +3,7 @@ package configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import tgBotClasses.TgBot;
+import tgBotClass.TgBot;
 
 @Configuration
 public class TgBotConfiguration {
