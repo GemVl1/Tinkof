@@ -55,11 +55,11 @@ public class TgBotMethods {
             case "/start":
                 return "Запущен";
             case "/track":
-                return "Затречить";
+                return "начать отслеживание ссылки";
             case "/untrack":
-                return "Не тречить";
+                return "Прекратить отслеживание ссылки";
             case "/list":
-                return (hasList) ? "Список" : "Нет списка";
+                return (hasList) ? "Показать список отслеживаемых ссылок" : "Нет списка";
             default:
                 return "/help - для вызова списка команд";
         }
